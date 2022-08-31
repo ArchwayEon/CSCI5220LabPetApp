@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PetGUIApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PetGUIApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
